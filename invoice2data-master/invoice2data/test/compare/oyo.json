@@ -1,0 +1,11 @@
+[
+    {
+        "amount": 1939.0,
+        "currency": "INR",
+        "date": "31/12/2017",
+        "desc": "Invoice from OYO",
+        "invoice_number": "IBZY2087",
+        "issuer": "OYO",
+        "payment_method": "Cash"
+    }
+]
